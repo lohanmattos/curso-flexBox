@@ -1,6 +1,6 @@
-# Curso: Prosicionando elemtentos com Flexbox em CSS 
+# Curso: Prosicionando elementos com Flexbox em CSS 
 
-## Esse repositorio foi criado para demostrar os conceitos ensinados durante o curso na plataforma da DIO. 
+## Esse repositório foi criado para demostrar os conceitos ensinados durante o curso na plataforma da DIO. 
 
 
 ### Conteúdos 
