@@ -15,7 +15,9 @@ propriedade flexbox na criação de layouts responsivos, sem a necessidade a def
 
 ### Conteúdos 
 
-
+- Conceitos de flexBox para o posicionamento dos elementos em tela.
+- Medidas relativas, para melhorar a responsividade da página.
+- Media queries, para ajustar a responsividade em cada dispositivo de acordo com o tamanho da tela.
 
 ### Projeto Final - Landing page Agência de Viagens. 
 
